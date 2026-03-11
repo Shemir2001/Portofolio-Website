@@ -104,7 +104,7 @@ const Hero = () => {
               }}
             >
               Full Stack{' '}
-              <span style={{ color: 'var(--accent)', fontWeight: 600 }}>MERN</span>{' '}
+              <span style={{ color: 'var(--accent)', fontWeight: 600 }}></span>{' '}
               Developer
             </motion.p>
 

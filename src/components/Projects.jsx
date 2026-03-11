@@ -11,31 +11,31 @@ import portofolio from '../assets/portofolio.png';
 
 const projects = [
   {
-    title: 'Fashion Hub E-Commerce Store',
+    title: 'Fully Featured Instutive E-Commerce Store with Admin Dashboard',
     description:
       'Full-stack e-commerce solution with real-time inventory management, Stripe payment processing, and a responsive storefront.',
-    tech: ['React', 'Node.js', 'MongoDB', 'Express', 'Stripe'],
+    tech: ['NEXT.JS', 'Node.js', 'MongoDB', 'Stripe'],
     image: ecomm,
-    github: '#',
-    live: '#',
+    github: 'https://github.com/Shemir2001/mobile-bazar',
+    live: 'https://mobileacessoriesbazar.vercel.app/',
   },
   {
-    title: 'AI Job & Scholarship Platform',
+    title: 'AI Powered Job & Scholarship Platform with enriched Fully Featured Admin Dashboard',
     description:
       'AI-powered platform connecting job seekers with opportunities and top-tier universities, featuring smart search and application tracking.',
-    tech: ['Next.js', 'Node.js', 'Job API', 'MongoDB'],
+    tech: ['Next.js', 'React.js', 'Job API'],
     image: job,
-    github: '#',
-    live: '#',
+    github: 'https://github.com/Shemir2001/job-vision',
+    live: 'https://job-vision-omega.vercel.app/',
   },
   {
-    title: 'Healthy Eats Dashboard',
+    title: 'Dakhla Web Application',
     description:
-      'AI-powered dashboard for tracking food intake, receiving personalized diet recommendations, and real-time chat with nutritionists.',
-    tech: ['React', 'Firebase', 'Node.js', 'Real Time Chat'],
+      'An online platform with same functionality and features like indeed.',
+    tech: ['Node.js', 'Next.js', 'React.js', 'PostgreSQL'],
     image: portofolio,
-    github: '#',
-    live: '#',
+    github: 'https://github.com/Shemir2001/GAP',
+    live: 'https://dakhla-five.vercel.app/',
   },
 ];
 

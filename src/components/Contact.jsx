@@ -31,7 +31,7 @@ const contactItems = [
 
 const socials = [
   { icon: <GitHubIcon />, label: 'GitHub', href: 'https://github.com/Shemir2001/' },
-  { icon: <LinkedInIcon />, label: 'LinkedIn', href: 'https://linkedin.com/' },
+  { icon: <LinkedInIcon />, label: 'LinkedIn', href: 'https://www.linkedin.com/in/shemir-ahmed-butt-b9a1b327b/' },
 ];
 
 const Contact = () => {

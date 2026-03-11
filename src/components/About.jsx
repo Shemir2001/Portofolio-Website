@@ -7,9 +7,9 @@ import CodeIcon from '@mui/icons-material/Code';
 import SchoolIcon from '@mui/icons-material/School';
 
 const stats = [
-  { icon: <WorkIcon sx={{ fontSize: 28 }} />, value: '2+', label: 'Years Experience' },
+  { icon: <WorkIcon sx={{ fontSize: 28 }} />, value: '1+', label: 'Years Experience' },
   { icon: <CodeIcon sx={{ fontSize: 28 }} />, value: '10+', label: 'Projects Completed' },
-  { icon: <SchoolIcon sx={{ fontSize: 28 }} />, value: 'BS CS', label: 'Computer Science' },
+  { icon: <SchoolIcon sx={{ fontSize: 28 }} />, value: 'BS IT', label: 'Information Technology' },
 ];
 
 const About = () => {
@@ -131,9 +131,9 @@ const About = () => {
                 fontSize: '0.95rem',
               }}
             >
-              Versatile and detail-oriented Full Stack MERN Developer with hands-on
+              Versatile and detail-oriented Full Stack Developer with hands-on
               experience in building modern and scalable web applications. Proficient in
-              React, Next.js, Node.js, Express, and MongoDB, with a strong understanding
+              React, Next.js, Node.js, Express, PHP/Laravel and MongoDB, MYSQL with a strong understanding
               of RESTful APIs, database design, and UI/UX principles.
             </p>
             <p
@@ -144,7 +144,7 @@ const About = () => {
                 fontSize: '0.95rem',
               }}
             >
-              Experienced in cloud deployment (AWS, Firebase) and version control with
+              Experienced in cloud deployment like Firebase and version control with
               Git/GitHub. Adept at working in Agile environments, collaborating across
               cross-functional teams, and delivering high-quality software solutions.
             </p>

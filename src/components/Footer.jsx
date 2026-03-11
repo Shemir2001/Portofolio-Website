@@ -75,8 +75,7 @@ const Footer = () => {
             flexWrap: 'wrap',
           }}
         >
-          © {new Date().getFullYear()} Shemir Ahmed Butt. Made with{' '}
-          <FavoriteIcon sx={{ fontSize: 16, color: 'var(--accent)' }} /> in Pakistan
+          © {new Date().getFullYear()} Developed by Shemir Ahmed Butt 
         </p>
       </div>
     </footer>
